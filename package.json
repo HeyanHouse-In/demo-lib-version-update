@@ -1,10 +1,14 @@
 {
-  "name": "@demo-lib-version-update/source",
+  "name": "@heyanhouse.in/demo-lib-version-update",
   "version": "0.2.0",
   "license": "MIT",
   "scripts": {
     "build": "nx build",
     "test": "nx test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HeyanHouse-In/demo-lib-version-update.git"
   },
   "dependencies": {
     "tslib": "^2.3.0"
