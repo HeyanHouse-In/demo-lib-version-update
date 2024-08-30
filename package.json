@@ -1,6 +1,6 @@
 {
-  "name": "@heyanhouse.in/demo-lib-version-update",
-  "version": "1.0.0",
+  "name": "demo-lib-version-update",
+  "version": "2.0.0",
   "license": "MIT",
   "scripts": {
     "build": "nx build",
